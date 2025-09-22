@@ -27,18 +27,18 @@ Gunakan command `yay -S` untuk menginstall paket dari AUR (Arch User Repository)
 
 `yay -S mongodb-bin`
 
-![mongodb](/session-1/img/tutorial%20install%20mongodb/mongodb1.jpeg)
+<img src="/session-1/img/tutorial install mongodb/mongodb1.jpeg" alt="mongodb" width="340px" height="214px">
 
 Ketik `A` ketika ditanya "Packages to cleanBuild?"
 ketik `N` ketika ditanya "Difs to show?"
 
-![mongodb](/session-1/img/tutorial%20install%20mongodb/mongodb2.jpeg)
+<img src="/session-1/img/tutorial install mongodb/mongodb2.jpeg" alt="mongodb" width="340px" height="214px">
 
 ketik `y` ketika ditanya "Remove make dependencis after install? 
 ketik `y` ketika ditanya "Proceed with installation?" 
 ketik `y` ketika ditanya "Do you want to remove these packages? 
 
-![mongodb](/session-1/img/tutorial%20install%20mongodb/mongodb3.jpeg)
+<img src="/session-1/img/tutorial install mongodb/mongodb3.jpeg" alt="mongodb" width="340px" height="214px">
 
 ## Step 4: Jalankan Layanan MongoDB 
 Setelah menginstall MongoDB, mulai layanan MongoDB dan aktifkan agar bisa berjalan saat *booting* sistem menggunakan command
