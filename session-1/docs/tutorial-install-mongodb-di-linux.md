@@ -52,7 +52,7 @@ Lalu pastikan layanan berjalan dengan benar dengan menggunakan command
 
 Output harus menunjukkan bahwa layanan dalam status *active (running)*
 
-## Step : Run Mongodb
+## Step 5: Run Mongodb
 ketik `mongosh` untuk mengakses mongoDB
 
 

@@ -32,7 +32,7 @@ kemudian untuk mengetahui file tersebut ada atau tidak, menggunakan command
 
 lalu pindahkan file tersebut ke folder ssh menggunakan command
 
-`mv "nama file" "nama folder' .ssh/`
+`mv "nama file" "nama folder" .ssh/`
 
 ## Step 4: Dapatkan Link untuk Key SSH
 Agar mendapatkan link untuk mengintegrasikan VSCode ke GitHub gunakan command
