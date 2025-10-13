@@ -1,4 +1,4 @@
-# # Review Modul Ajar
+# Review Modul Ajar
 - Judul Modul: MariaDB-Basic
 - Pembuat: Yuros Community
 - Mata Kuliah: Teknologi Basis Data dan Jaringan
@@ -14,7 +14,7 @@ Dalam Modul 1 ini kita di sajikan video Evolusi RDBMS: Dari IBM IMS hingga kelah
 
 ## Modul 2: Apa itu Data dan Konsep Dasarnya?
 
-Pada modul 2 ini ada beberapa sub bab yang di bahas yaitu: **Pengenalan tentang data, perbedaan data dan informasi, jenis-jenis data, representasi data dlaam kehidupan sehari-hari, kualitas data, pentingnya pengelolaan data hingga contoh kasus di perpustakaan**. Menurut pembahasan yang ada di modul data dibedakan dari informasi melalui proses transformasi yang memberikan makna sesuai kebutuhan pengguna, lalu jenis data itu beragam ada yang terstruktur, semi-tersruktur, dan tidak terstruktur ini menunjukkan pentingnya untuk memahami pemilihan metode pengelolaan data yang tepat. Jika kita membahas konteks perpustakaan, kualitas data akan menentukan efisiensi layanan, akurasi laporan, dan kepuasan anggota.
+Pada modul 2 ini ada beberapa sub bab yang di bahas yaitu: **Pengenalan tentang data, perbedaan data dan informasi, jenis-jenis data, representasi data dalam kehidupan sehari-hari, kualitas data, pentingnya pengelolaan data hingga contoh kasus di perpustakaan**. Menurut pembahasan yang ada di modul data dibedakan dari informasi melalui proses transformasi yang memberikan makna sesuai kebutuhan pengguna, lalu jenis data itu beragam ada yang terstruktur, semi-tersruktur, dan tidak terstruktur ini menunjukkan pentingnya untuk memahami pemilihan metode pengelolaan data yang tepat. Jika kita membahas konteks perpustakaan, kualitas data akan menentukan efisiensi layanan, akurasi laporan, dan kepuasan anggota.
 
 ## Modul 3: Mengapa Kita Butuh Database?
 
